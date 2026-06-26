@@ -246,5 +246,5 @@ Developed as a Salesforce CRM Automation project demonstrating custom object dev
 ---
 
 <p align="center">
-  ⭐ If you found this project useful, consider giving it a star!
+  ⭐ If you found this project useful, consider giving it a star :)
 </p>
